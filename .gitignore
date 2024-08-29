@@ -38,3 +38,27 @@ Pods/
 # Temporary files
 *.swp
 *.swo
+
+## User settings
+xcuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+.build/
+
+## fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
